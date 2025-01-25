@@ -18,7 +18,7 @@ import { Control } from "react-hook-form";
 import Image from "next/image";
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
-import { Select, SelectContent, SelectTrigger, SelectValue } from "../ui/select";
+import { Select, SelectItem,SelectContent, SelectTrigger, SelectValue } from "../ui/select";
 import { Textarea } from "../ui/textarea";
 import { Checkbox } from "../ui/checkbox";
 
